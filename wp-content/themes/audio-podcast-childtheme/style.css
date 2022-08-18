@@ -1,0 +1,25 @@
+/*
+Theme Name: Audio-podcast-cildtheme
+Description: Child Theme
+Author:Indro
+Template: audio-podcast
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: two-column, responsive-layout
+Text Domain: twentytwentyonechild
+*/ 
+
+
+
+.wp-block-search__label {
+	color:orange;
+}
+
+.main-header{
+    width: 100% !important;
+    margin-right: 0px !important;
+    bottom: 0 !important;
+    margin-left: 0 !important;
+    position: fixed !important;
+}

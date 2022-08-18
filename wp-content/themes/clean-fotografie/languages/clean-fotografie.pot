@@ -1,0 +1,142 @@
+# Copyright (C) 2012-2022 Catch Themes
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Clean Fotografie\n"
+"Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
+"POT-Creation-Date: 2022-08-04 12:44-0700\n"
+"PO-Revision-Date: 2016-12-07 00:45-0500\n"
+"Last-Translator: Catch Themes <info@catchthemes.com>\n"
+"Language-Team: Catch Themes <info@catchthemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;"
+"_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: \n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../components/features/portfolio/portfolio.php:29
+msgid "Projects"
+msgstr ""
+
+#: ../components/navigation/navigation-top.php:10
+msgid "Menu"
+msgstr ""
+
+#: ../components/navigation/navigation-top.php:15
+#: ../components/navigation/navigation-top.php:28
+msgid "Primary Menu"
+msgstr ""
+
+#: ../components/navigation/navigation-top.php:43
+msgid "Search"
+msgstr ""
+
+#: ../components/navigation/navigation-top.php:48
+msgid "Social Menu"
+msgstr ""
+
+#: ../functions.php:40
+msgid ", "
+msgstr ""
+
+#: ../functions.php:42
+msgid "Categories: "
+msgstr ""
+
+#: ../functions.php:68
+msgid "Leave a comment"
+msgstr ""
+
+#: ../functions.php:68
+msgid "1 Comment"
+msgstr ""
+
+#: ../functions.php:68
+msgid "% Comments"
+msgstr ""
+
+#: ../functions.php:108 ../inc/customizer.php:23
+msgid "Header Media"
+msgstr ""
+
+#: ../functions.php:109 ../inc/customizer.php:34
+msgid "This is Header Media Text."
+msgstr ""
+
+#: ../functions.php:111 ../inc/customizer.php:45
+msgid "Explore"
+msgstr ""
+
+#: ../functions.php:175
+msgid "Instagram"
+msgstr ""
+
+#: ../functions.php:177
+msgid ""
+"Appears above footer. This sidebar is only for Widget from plugin Catch "
+"Instagram Feed Gallery Widget and Catch Instagram Feed Gallery Widget Pro"
+msgstr ""
+
+#: ../functions.php:186
+msgid "Newsletter"
+msgstr ""
+
+#: ../functions.php:188
+msgid "This is for Newsletter Template Widget Area."
+msgstr ""
+
+#: ../header.php:28
+msgid "Skip to content"
+msgstr ""
+
+#: ../inc/customizer.php:17
+msgid "Clean Fotografie Pro"
+msgstr ""
+
+#: ../inc/customizer.php:28
+msgid "Header Media Title"
+msgstr ""
+
+#: ../inc/customizer.php:39
+msgid "Header Media Text"
+msgstr ""
+
+#: ../inc/customizer.php:50
+msgid "Header Media Link Text"
+msgstr ""
+
+#: ../inc/customizer.php:61
+msgid "Header Media Link URL"
+msgstr ""
+
+#: ../inc/customizer.php:71
+msgid "Check to Open Link in New Window/Tab"
+msgstr ""
+
+#: ../inc/override-parent.php:38
+msgid "Blond"
+msgstr ""
+
+#: ../inc/override-parent.php:43
+msgid "Closeup"
+msgstr ""
+
+#: ../inc/override-parent.php:59
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../inc/override-parent.php:64
+msgctxt "Source Serif Pro font: on or off"
+msgid "on"
+msgstr ""
